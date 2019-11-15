@@ -1,10 +1,10 @@
-=====================
-Pangeo CMIP6 Examples
-=====================
+==================================
+Dask Auto-Adaptive Cluster Example
+==================================
 
 |Binder|
 
-Examples of analysis of CMIP6 data using xarray and dask.
+Example of starting an automatic adaptive cluster
 
 Try these notebooks on pangeo.binder.io_ : |Binder|
 
