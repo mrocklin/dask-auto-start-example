@@ -10,7 +10,7 @@ labextension:
       # minimum: 0
       # maximum: 10
   initial:
-    - name: "Adaptive"
+    - name: "Adaptive Cluster"
       adapt:
         minimum: 0
         maximum: 30
