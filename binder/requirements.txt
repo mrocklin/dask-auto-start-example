@@ -1,2 +1,4 @@
 xhistogram
 -e git+https://github.com/qzchenwl/qgrid.git#egg=qgrid
+dask==2.8
+distributed==2.8
